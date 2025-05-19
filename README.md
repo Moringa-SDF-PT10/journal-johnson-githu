@@ -1,4 +1,15 @@
-## Available Scripts
+## About the project
+The following web application allows users to
+
+When the app starts, the user will see a list of existing journal entries (fetched from the API).
+
+There is a popup form for creating a new journal
+on filling the form it is saved via the api and displayed on the list
+
+mark journal entries as important
+
+
+## Running the application
 
 In the project directory, you can run:
 
